@@ -28,5 +28,5 @@ b = input("Enter another number: ")
 A = int(a)
 B = int(b)
 # adding two numbers
-sum = A + B
-print("The sum of", A, "and", B, "is:", sum)
+Total = A + B
+print("The sum of", A, "and", B, "is:", Total)
